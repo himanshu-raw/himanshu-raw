@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development & Blockchain projects  <br>👯 I’m looking to collaborate on Web Development, React, and Open Source  <br>🤝 I’m looking for help with advanced backend & system design  <br>🌱 I’m currently learning Solidity, DevOps, and Scalable Systems  <br>💬 Ask me about C++, Python, React, and Game Development  <br>⚡ Fun fact: I’m a gamer and love solving logic-based problems  
+🔭 I’m currently working on Full Stack Development & Blockchain projects  <br>👯 I’m looking to collaborate on Web Development, React, and Open Source  <br>🤝 I’m looking for help with advanced backend & system design  <br>🌱 I’m currently learning Solidity, and Scalable Systems  <br>💬 Ask me about C++, Python, React, and Game Development  <br>⚡ Fun fact: I’m a gamer and love solving logic-based problems  
 
 
 ## 🌐 Socials:
